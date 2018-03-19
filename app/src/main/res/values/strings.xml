@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Developer Steam Authenticator</string>
+    <string name="preference_key_file">com.chadali.developersteamauthenticator.PREFERENCE_FILE_KEY</string>
+</resources>
